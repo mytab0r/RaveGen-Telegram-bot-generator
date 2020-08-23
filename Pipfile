@@ -6,11 +6,12 @@ verify_ssl = true
 [dev-packages]
 
 [packages]
-pytest = "==4.2.0"
+pytest = ">=4.2.0"
 pytest-cov = "*"
 flaky = "*"
 python-telegram-bot = "*"
 codecov = "*"
+html = "*"
 
 [requires]
 python_version = "2.7"

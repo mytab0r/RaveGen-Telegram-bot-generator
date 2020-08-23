@@ -1,5 +1,7 @@
-pytest==4.2.0
+pip
+pytest>=4.2.0
 pytest-cov
 flaky
 python-telegram-bot
 codecov
+html
